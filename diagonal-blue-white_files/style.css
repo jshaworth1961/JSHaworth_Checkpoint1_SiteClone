@@ -1,0 +1,17 @@
+/*
+* {
+    outline: solid black;
+}
+*/
+
+.background-diagonal-blue-white {
+    height: 0;
+    width: 0;
+    border-top: 80vh solid royalblue;
+    border-left: 80vh solid white;
+}
+
+.img-center {
+    display: flex;
+    justify-content: center;
+}
