@@ -1,0 +1,138 @@
+/*
+* {
+    outline: solid black;
+}
+*/
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 7vh;
+}
+
+.btn-header {
+    display: flex;
+    justify-content: center;
+}
+
+.card-shift {
+    position: relative;
+    top: 7vh;
+}
+
+.card-features {
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    height: 1vh;
+    width: 1vw;
+    border-radius: 50%;
+    background-color: blue;
+    padding: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-border {
+    border: solid black;
+}
+
+.filler3-style {
+    background-color: lightblue;
+    width: 96.5vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-style {
+    background-color: royalblue;
+}
+
+.header-button {
+    background-color: slategray;
+    border-radius: 10%;
+}
+
+.img-center {
+    display: flex;
+    justify-content: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 6rem;
+    width: 6rem;
+}
+
+.img-taz-center {
+    display: flex;
+    justify-content: center;
+}
+
+.img-taz {
+    height: 15rem;
+}
+
+.img-yosemitesam-center {
+    display: flex;
+    justify-content: center;
+}
+
+.img-yosemitesam {
+    height: 8rem;
+    margin-top: 2%;
+}
+
+.jtron-style {
+    background-color: gray;
+}
+
+.line-break {
+    background-color: black;
+}
+
+.logo-text {
+    font-weight: bolder;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 1.2em;
+}
+
+.logo-text-footer-left {
+    font-weight: bolder;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 1.2em;
+    text-align: left;
+    color:white;
+}
+
+.logo-text-footer-right {
+    font-weight: bolder;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 1.2em;
+    text-align: right;
+    color:white;
+}
+
+.logo-text-nav {
+    font-weight: bolder;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 1.5em;
+}
+
+.main-features {
+    background-color: gold;
+}
+
+.navbar-custom {
+    background-color: royalblue;
+    color: white;
+}
+
+.text-header {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 45%;
+}
